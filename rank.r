@@ -1,8 +1,7 @@
-library("dplyr")
-library("magrittr")
-library("tidyr")
-library("ggplot2")
+library("tidyverse")
 
+
+## 2018 Data source https://www.hockey-reference.com/leagues/NHL_2018_skaters.html
 
 points <- read.csv("stats_raw.csv", header = TRUE, stringsAsFactors = FALSE)
 
