@@ -24,13 +24,13 @@ contribution <- function(pquarter,psemi,pfinal, PTS, GP){
 
 data %>%
 ##    na.omit(.) %>%
-##    transform(index = contribution(pquarter, psemi, pfinal,PTS,GP)) %>%
-    transform(index = PTS) %>%
+    transform(index = contribution(pquarter, psemi, pfinal,PTS,GP)) %>%
+##    transform(index = PTS) %>%
     filter(GP > 30) %>%
     arrange(desc(index)) %>%
-    select(Tm, Player, PTS, GP, index) %>%
-    write.table(file = "picklistPTS.csv", append = FALSE, quote = FALSE, sep = "\t",
-            eol = "\n", na = "NA", dec = ".", row.names = TRUE,
+    select(Player, Tm, PTS, GP, index) %>%
+    write.table(file = "picklist.csv", append = FALSE, quote = FALSE, sep = "\t\t",
+            eol = "\n", na = "NA", dec = ".", row.names = FALSE,
             col.names = TRUE, qmethod = c("escape", "double"),
             fileEncoding = "")
 

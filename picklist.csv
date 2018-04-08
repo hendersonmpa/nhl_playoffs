@@ -1,283 +1,283 @@
-Tm	Player	PTS	GP	index
-1	TBL	Nikita Kucherov	100	79	18.23
-2	PIT	Evgeni Malkin	98	78	16.77
-3	WPG	Blake Wheeler	90	80	16.2
-4	TBL	Steven Stamkos	86	78	15.88
-5	PIT	Phil Kessel	92	82	14.98
-6	NSH	Filip Forsberg	61	66	14.95
-7	WPG	Mark Scheifele	60	59	14.64
-8	PIT	Sidney Crosby	89	82	14.49
-9	NSH	Viktor Arvidsson	61	78	12.65
-10	BOS	Brad Marchand	85	66	12.55
-11	TOR	Auston Matthews	61	61	12.3
-12	WPG	Patrik Laine	69	81	12.27
-13	NSH	Ryan Ellis	32	43	12.04
-14	NSH	P.K. Subban	59	81	11.78
-15	TBL	Victor Hedman	62	76	11.75
-16	TBL	Brayden Point	66	81	11.73
-17	NSH	Roman Josi	53	74	11.59
-18	VEG	Jon Marchessault	75	76	11.46
-19	TBL	Yanni Gourde	64	81	11.38
-20	VEG	William Karlsson	78	81	11.19
-21	ANA	Ryan Getzlaf	60	55	11.09
-22	NSH	Ryan Johansen	53	78	10.99
-23	VEG	David Perron	66	70	10.95
-24	WPG	Kyle Connor	56	75	10.75
-25	WPG	Nikolaj Ehlers	60	81	10.67
-26	LAK	Anze Kopitar	92	81	10.6
-27	VEG	Reilly Smith	60	66	10.56
-28	TOR	Mitch Marner	69	81	10.48
-29	NSH	Craig Smith	50	78	10.37
-30	PHI	Claude Giroux	98	81	10.29
-31	NSH	Kevin Fiala	48	79	9.83
-32	COL	Nathan MacKinnon	95	73	9.74
-33	BOS	Patrice Bergeron	61	62	9.59
-34	BOS	David Pastrnak	78	80	9.5
-35	PIT	Patric Hornqvist	49	70	9.34
-36	WPG	Dustin Byfuglien	44	68	9.32
-37	NJD	Taylor Hall	93	76	9.16
-38	TOR	William Nylander	60	81	9.11
-39	ANA	Rickard Rakell	67	76	8.97
-40	TBL	Ondrej Palat	34	55	8.9
-41	PHI	Jakub Voracek	84	81	8.82
-42	TBL	Tyler Johnson	49	80	8.82
-43	PIT	Kris Letang	51	79	8.62
-44	SJS	Joe Pavelski	65	81	8.57
-45	SJS	Brent Burns	65	81	8.57
-46	VEG	Erik Haula	55	75	8.52
-47	SJS	Logan Couture	61	77	8.46
-48	TOR	Nazem Kadri	54	79	8.41
-49	TBL	Alex Killorn	47	81	8.36
-50	TOR	Morgan Rielly	51	75	8.36
-51	NSH	Calle Jarnkrok	35	68	8.33
-52	TOR	James van Riemsdyk	54	80	8.3
-53	SJS	Joe Thornton	36	47	8.18
-54	WPG	Mathieu Perreault	39	69	8.14
-55	PIT	Jake Guentzel	48	82	7.81
-56	COL	Mikko Rantanen	83	80	7.77
-57	PHI	Sean Couturier	74	81	7.77
-58	CBJ	Artemi Panarin	82	81	7.76
-59	BOS	Torey Krug	58	74	7.64
-60	WPG	Bryan Little	43	81	7.64
-61	TOR	Jake Gardiner	50	81	7.59
-62	PIT	Bryan Rust	38	69	7.35
-63	VEG	James Neal	44	70	7.3
-64	TBL	Mikhail Sergachev	40	79	7.29
-65	LAK	Dustin Brown	61	80	7.12
-66	PHI	Shayne Gostisbehere	64	77	7.07
-67	TOR	Patrick Marleau	46	81	6.99
-68	ANA	Corey Perry	48	70	6.97
-69	MIN	Eric Staal	75	81	6.93
-70	LAK	Drew Doughty	60	81	6.92
-71	NSH	Mattias Ekholm	34	80	6.87
-72	BOS	David Krejci	43	62	6.76
-73	WPG	Adam Lowry	20	44	6.55
-74	MIN	Mikael Granlund	66	76	6.5
-75	WPG	Jack Roslovic	14	31	6.5
-76	TOR	Tyler Bozak	42	80	6.46
-77	WPG	Tyler Myers	36	81	6.4
-78	SJS	Tomas Hertl	46	78	6.3
-79	WPG	Jacob Trouba	24	55	6.28
-80	COL	Tyson Barrie	56	67	6.26
-81	BOS	Jake Debrusk	43	68	6.16
-82	NSH	Scott Hartnell	23	61	6.1
-83	ANA	Ondrej Kase	38	65	5.95
-84	TOR	Zach Hyman	39	81	5.92
-85	VEG	Colin Miller	41	81	5.88
-86	BOS	Danton Heinen	45	75	5.85
-87	NSH	Nick Bonino	25	70	5.78
-88	COL	Gabriel Landeskog	59	77	5.74
-89	MIN	Jason Zucker	62	81	5.73
-90	PIT	Justin Schultz	27	63	5.72
-91	SJS	Kevin Labanc	40	76	5.62
-92	VEG	Shea Theodore	29	60	5.61
-93	CBJ	Seth Jones	57	78	5.6
-94	VEG	Alex Tuch	37	77	5.58
-95	VEG	Nate Schmidt	36	76	5.5
-96	BOS	David Backes	31	55	5.49
-97	NSH	Colton Sissons	27	80	5.46
-98	CBJ	Cam Atkinson	46	65	5.43
-99	ANA	Jakob Silfverberg	40	76	5.35
-100	NJD	Kyle Palmieri	44	62	5.31
-101	LAK	Tyler Toffoli	46	81	5.3
-102	LAK	Jake Muzzin	42	74	5.3
-103	PHI	Wayne Simmonds	46	74	5.29
-104	SJS	Chris Tierney	40	81	5.27
-105	SJS	Mikkel Boedker	36	73	5.27
-106	BOS	Riley Nash	41	76	5.26
-107	SJS	Joonas Donskoi	32	65	5.26
-108	WPG	Joel Armia	28	78	5.17
-109	BOS	Charlie McAvoy	32	61	5.11
-110	PIT	Carl Hagelin	31	81	5.11
-111	PIT	Conor Sheary	30	79	5.07
-112	PHI	Travis Konecny	47	80	4.99
-113	TBL	Chris Kunitz	28	81	4.98
-114	MIN	Ryan Suter	51	78	4.9
-115	ANA	Cam Fowler	32	67	4.86
-116	PIT	Dominik Simon	12	33	4.85
-117	TBL	Cory Conacher	12	36	4.8
-118	VEG	Brad Hunt	18	44	4.75
-119	PIT	Olli Maatta	29	82	4.72
-120	NJD	Nico Hischier	51	81	4.71
-121	WPG	Josh Morrissey	26	80	4.68
-122	SJS	Timo Meier	35	80	4.67
-123	ANA	Josh Manson	36	79	4.63
-124	WPG	Andrew Copp	26	81	4.62
-125	LAK	Tanner Pearson	40	81	4.61
-126	CBJ	Pierre-Luc Dubois	48	81	4.54
-127	MIN	Jared Spurgeon	37	61	4.54
-128	MIN	Mathew Dumba	49	81	4.53
-129	ANA	Andrew Cogliano	35	79	4.51
-130	ANA	Hampus Lindholm	30	68	4.49
-131	TOR	Travis Dermott	13	36	4.44
-132	SJS	Justin Braun	33	80	4.41
-133	LAK	Adrian Kempe	37	80	4.32
-134	MIN	Zach Parise	24	42	4.28
-135	SJS	Marc-Edouard Vlasic	32	80	4.27
-136	TOR	Connor Brown	28	81	4.25
-137	PHI	Ivan Provorov	40	81	4.2
-138	MIN	Mikko Koivu	45	81	4.16
-139	MIN	Charlie Coyle	36	65	4.15
-140	COL	Alexander Kerfoot	43	78	4.13
-141	ANA	Brandon Montour	32	79	4.12
-142	NJD	Will Butcher	44	80	4.12
-143	WPG	Brandon Tanev	17	60	4.08
-144	CBJ	Alexander Wennberg	35	66	4.07
-145	NSH	Austin Watson	18	75	3.88
-146	VEG	Cody Eakin	26	79	3.82
-147	CBJ	Oliver Bjorkstrand	40	81	3.79
-148	ANA	Derek Grant	24	65	3.76
-149	TBL	Ryan Callahan	17	66	3.71
-150	CBJ	Zach Werenski	37	77	3.68
-151	ANA	Nick Ritchie	27	75	3.66
-152	LAK	Trevor Lewis	26	67	3.62
-153	MIN	Nino Niederreiter	30	62	3.62
-154	WPG	Ben Chiarot	14	56	3.6
-155	CBJ	Josh Anderson	29	62	3.59
-156	NJD	Jesper Bratt	35	73	3.59
-157	TOR	Ron Hainsey	23	79	3.58
-158	PHI	Nolan Patrick	30	72	3.54
-159	CBJ	Nick Foligno	33	72	3.51
-160	PHI	Valtteri Filppula	33	80	3.51
-161	COL	Carl Soderberg	35	76	3.45
-162	VEG	Deryk Engelland	23	78	3.43
-163	TBL	Dan Girardi	18	76	3.41
-164	TBL	Slater Koekkoek	8	34	3.39
-165	COL	Sven Andrighetto	22	49	3.36
-166	NJD	Brian Gibbons	26	58	3.36
-167	CBJ	Boone Jenner	32	74	3.32
-168	ANA	Ryan Kesler	14	43	3.31
-169	TBL	Jake Dotchin	11	48	3.3
-170	TBL	Anton Stralman	18	79	3.28
-171	SJS	Dylan DeMelo	19	62	3.27
-172	SJS	Jannik Hansen	14	46	3.25
-173	TOR	Leo Komarov	19	73	3.2
-174	PIT	Matt Hunwick	10	42	3.18
-175	SJS	Barclay Goodrow	14	47	3.18
-176	COL	Blake Comeau	33	78	3.17
-177	BOS	Zdeno Chara	23	71	3.16
-178	TOR	Connor Carrick	12	47	3.14
-179	CBJ	Sonny Milano	22	54	3.12
-180	WPG	Matt Hendricks	13	60	3.12
-181	LAK	Alex Iafallo	25	75	3.11
-182	NJD	Travis Zajac	26	63	3.09
-183	TBL	Braydon Coburn	15	71	3.04
-184	COL	Erik Johnson	25	62	3.02
-185	NJD	Miles Wood	30	75	3
-186	PIT	Brian Dumoulin	18	80	3
-187	TOR	Kasperi Kapanen	9	37	2.99
-188	TOR	Dominic Moore	12	50	2.95
-189	TOR	Matt Martin	12	50	2.95
-190	SJS	Brenden Dillon	22	80	2.94
-191	CBJ	Markus Nutivaara	23	61	2.89
-192	SJS	Melker Karlsson	19	71	2.86
-193	NJD	Stefan Noesen	27	71	2.85
-194	LAK	Alec Martinez	23	76	2.83
-195	TOR	Andreas Borgman	11	48	2.82
-196	TOR	Roman Polak	12	53	2.78
-197	PHI	Andrew MacDonald	21	65	2.75
-198	CBJ	Matt Calvert	24	68	2.71
-199	TOR	Nikita Zaitsev	13	59	2.71
-200	NSH	Matt Irwin	8	49	2.64
-201	ANA	Francois Beauchemin	17	66	2.62
-202	VEG	Tomas Nosek	15	67	2.6
-203	PHI	Jordan Weal	21	69	2.59
-204	ANA	Antoine Vermette	16	63	2.58
-205	VEG	Pierre-Edouard Bellemare	16	72	2.58
-206	COL	Tyson Jost	22	64	2.57
-207	BOS	Tim Schaller	21	80	2.56
-208	COL	Matthew Nieto	25	73	2.56
-209	WPG	Dmitry Kulikov	11	62	2.55
-210	COL	J.T. Compher	23	68	2.53
-211	NJD	Pavel Zacha	23	68	2.53
-212	NJD	Brian Boyle	23	68	2.53
-213	COL	Colin Wilson	18	55	2.45
-214	BOS	Matt Grzelcyk	15	60	2.44
-215	NJD	Blake Coleman	25	78	2.4
-216	TBL	Cedric Paquette	9	55	2.36
-217	TBL	Andrej Sustr	7	43	2.34
-218	VEG	Brayden McNabb	15	75	2.32
-219	NJD	Damon Severson	23	75	2.3
-220	SJS	Joel Ward	11	51	2.3
-221	MIN	Marcus Foligno	23	76	2.27
-222	NSH	Miikka Salomaki	8	57	2.27
-223	PHI	Michael Raffl	20	75	2.27
-224	PHI	Brandon Manning	17	64	2.26
-225	BOS	Kevan Miller	15	66	2.21
-226	COL	Mark Barberio	13	45	2.16
-227	LAK	Derek Forbort	18	78	2.15
-228	MIN	Daniel Winnik	23	80	2.15
-229	PHI	Scott Laughton	20	80	2.13
-230	NJD	Jimmy Hayes	9	32	2.11
-231	CBJ	Ryan Murray	12	44	2.09
-232	MIN	Jonas Brodin	20	72	2.08
-233	MIN	Tyler Ennis	20	72	2.08
-234	NJD	Steven Santini	10	36	2.08
-235	COL	Nail Yakupov	16	58	2.07
-236	SJS	Marcus Sorensen	6	31	2.07
-237	SJS	Joakim Ryan	12	62	2.07
-238	VEG	Oscar Lindberg	11	62	2.06
-239	MIN	Matt Cullen	21	78	2.02
-240	WPG	Toby Enstrom	6	43	2.01
-241	COL	Nikita Zadorov	20	76	1.97
-242	NJD	Drew Stafford	15	58	1.94
-243	NSH	Alexei Emelin	9	75	1.94
-244	LAK	Christian Folin	13	64	1.9
-245	CBJ	Brandon Dubinsky	15	61	1.89
-246	LAK	Andy Andreoff	9	45	1.87
-247	PHI	Radko Gudas	15	69	1.85
-248	BOS	Sean Kuraly	14	75	1.82
-249	LAK	Michael Amadio	7	36	1.82
-250	NSH	Yannick Weber	5	47	1.72
-251	LAK	Kyle Clifford	9	49	1.71
-252	BOS	Noel Acciari	10	58	1.68
-253	COL	Patrik Nemeth	15	67	1.68
-254	NJD	John Moore	18	80	1.68
-255	LAK	Jonny Brodzinski	6	34	1.65
-256	MIN	Joel Eriksson Ek	16	74	1.62
-257	PHI	Travis Sanheim	9	48	1.59
-258	PIT	Tom Kuhnhackl	8	69	1.55
-259	CBJ	David Savard	16	80	1.53
-260	NSH	Anthony Bitetto	3	32	1.52
-261	PIT	Carter Rowney	5	44	1.52
-262	PIT	Chad Ruhwedel	5	44	1.52
-263	PHI	Dale Weise	8	46	1.48
-264	MIN	Gustav Olofsson	8	41	1.46
-265	COL	Gabriel Bourque	11	57	1.45
-266	ANA	Kevin Bieksa	8	59	1.38
-267	NJD	Andy Greene	13	80	1.22
-268	CBJ	Markus Hannikainen	5	32	1.2
-269	CBJ	Lukas Sedlak	8	53	1.16
-270	PHI	Jori Lehtera	8	61	1.12
-271	CBJ	Jack Johnson	11	76	1.11
-272	LAK	Kurtis MacDermid	4	34	1.1
-273	PHI	Taylor Leier	5	39	1.09
-274	PHI	Robert Hagg	9	70	1.09
-275	NJD	Ben Lovejoy	8	56	1.07
-276	VEG	Jonathon Merrill	3	33	1.06
-277	CBJ	Scott Harrington	4	31	0.99
-278	VEG	William Carrier	3	36	0.97
-279	BOS	Adam McQuaid	3	36	0.81
-280	BOS	Brandon Carlo	6	76	0.77
-281	COL	Anton Lindholm	4	48	0.62
-282	COL	Dominic Toninato	2	37	0.4
+Player          	Tm		PTS		GP		index
+Evgeni Malkin		PIT		98		78		16.77
+Blake Wheeler		WPG		90		80		16.2
+Nikita Kucherov		TBL		100		79		15.57
+Phil Kessel		PIT		92		82		14.98
+Filip Forsberg		NSH		61		66		14.95
+Mark Scheifele		WPG		60		59		14.64
+Brad Marchand		BOS		85		66		14.49
+Sidney Crosby		PIT		89		82		14.49
+Steven Stamkos		TBL		86		78		13.56
+Viktor Arvidsson	NSH		61		78		12.65
+Patrik Laine		WPG		69		81		12.27
+Jon Marchessault	VEG		75		76		12.14
+Ryan Ellis	        NSH		32		43		12.04
+William Karlsson	VEG		78		81		11.84
+P.K. Subban		NSH		59		81		11.78
+David Perron		VEG		66		70		11.6
+Roman Josi		NSH		53		74		11.59
+Anze Kopitar		LAK		92		81		11.55
+Taylor Hall		NJD		93		76		11.42
+Auston Matthews		TOR		61		61		11.25
+Reilly Smith		VEG		60		66		11.18
+Patrice Bergeron	BOS		61		62		11.07
+Ryan Johansen		NSH		53		78		10.99
+David Pastrnak		BOS		78		80		10.97
+Kyle Connor		WPG		56		75		10.75
+Nikolaj Ehlers		WPG		60		81		10.67
+Craig Smith		NSH		50		78		10.37
+Claude Giroux		PHI		98		81		10.29
+Ryan Getzlaf		ANA		60		55		10.18
+Victor Hedman		TBL		62		76		10.03
+Brayden Point		TBL		66		81		10.02
+Kevin Fiala		NSH		48		79		9.83
+Nathan MacKinnon	COL		95		73		9.74
+Yanni Gourde		TBL		64		81		9.72
+Mitch Marner		TOR		69		81		9.58
+Patric Hornqvist	PIT		49		70		9.34
+Joe Pavelski		SJS		65		81		9.32
+Brent Burns		SJS		65		81		9.32
+Dustin Byfuglien	WPG		44		68		9.32
+Logan Couture		SJS		61		77		9.2
+Erik Haula		VEG		55		75		9.02
+Joe Thornton		SJS		36		47		8.9
+Torey Krug		BOS		58		74		8.82
+Jakub Voracek		PHI		84		81		8.82
+Kris Letang		PIT		51		79		8.62
+Calle Jarnkrok		NSH		35		68		8.33
+William Nylander	TOR		60		81		8.33
+Rickard Rakell		ANA		67		76		8.23
+Mathieu Perreault	WPG		39		69		8.14
+Jake Guentzel		PIT		48		82		7.81
+David Krejci		BOS		43		62		7.8
+Mikko Rantanen		COL		83		80		7.77
+Sean Couturier		PHI		74		81		7.77
+Artemi Panarin		CBJ		82		81		7.76
+Dustin Brown		LAK		61		80		7.75
+James Neal		VEG		44		70		7.73
+Nazem Kadri		TOR		54		79		7.69
+Morgan Rielly		TOR		51		75		7.65
+Bryan Little		WPG		43		81		7.64
+Ondrej Palat		TBL		34		55		7.6
+James van Riemsdyk	TOR		54		80		7.59
+Drew Doughty		LAK		60		81		7.53
+Tyler Johnson		TBL		49		80		7.53
+Bryan Rust		PIT		38		69		7.35
+Alex Killorn		TBL		47		81		7.14
+Jake Debrusk		BOS		43		68		7.11
+Shayne Gostisbehere	PHI		64		77		7.07
+Jake Gardiner		TOR		50		81		6.94
+Eric Staal		MIN		75		81		6.93
+Mattias Ekholm		NSH		34		80		6.87
+Tomas Hertl		SJS		46		78		6.85
+Danton Heinen		BOS		45		75		6.75
+Kyle Palmieri		NJD		44		62		6.63
+Adam Lowry		WPG		20		44		6.55
+Mikael Granlund		MIN		66		76		6.5
+Jack Roslovic		WPG		14		31		6.5
+Corey Perry		ANA		48		70		6.4
+Tyler Myers		WPG		36		81		6.4
+Patrick Marleau		TOR		46		81		6.39
+David Backes		BOS		31		55		6.34
+Jacob Trouba		WPG		24		55		6.28
+Tyson Barrie		COL		56		67		6.26
+Mikhail Sergachev	TBL		40		79		6.23
+Colin Miller		VEG		41		81		6.23
+Kevin Labanc		SJS		40		76		6.11
+Scott Hartnell		NSH		23		61		6.1
+Riley Nash		BOS		41		76		6.07
+Shea Theodore		VEG		29		60		5.94
+Tyler Bozak		TOR		42		80		5.91
+Alex Tuch		VEG		37		77		5.91
+Charlie McAvoy		BOS		32		61		5.9
+Nico Hischier		NJD		51		81		5.88
+Nate Schmidt		VEG		36		76		5.83
+Tyler Toffoli		LAK		46		81		5.78
+Nick Bonino		NSH		25		70		5.78
+Jake Muzzin		LAK		42		74		5.77
+Gabriel Landeskog		COL		59		77		5.74
+Chris Tierney		SJS		40		81		5.74
+Jason Zucker		MIN		62		81		5.73
+Mikkel Boedker		SJS		36		73		5.73
+Justin Schultz		PIT		27		63		5.72
+Joonas Donskoi		SJS		32		65		5.72
+Seth Jones		CBJ		57		78		5.6
+Ondrej Kase		ANA		38		65		5.46
+Colton Sissons		NSH		27		80		5.46
+Cam Atkinson		CBJ		46		65		5.43
+Zach Hyman		TOR		39		81		5.42
+Wayne Simmonds		PHI		46		74		5.29
+Joel Armia		WPG		28		78		5.17
+Will Butcher		NJD		44		80		5.13
+Carl Hagelin		PIT		31		81		5.11
+Timo Meier		SJS		35		80		5.08
+Conor Sheary		PIT		30		79		5.07
+Brad Hunt		VEG		18		44		5.03
+Tanner Pearson		LAK		40		81		5.02
+Travis Konecny		PHI		47		80		4.99
+Jakob Silfverberg		ANA		40		76		4.91
+Ryan Suter		MIN		51		78		4.9
+Dominik Simon		PIT		12		33		4.85
+Justin Braun		SJS		33		80		4.79
+Olli Maatta		PIT		29		82		4.72
+Adrian Kempe		LAK		37		80		4.7
+Josh Morrissey		WPG		26		80		4.68
+Marc-Edouard Vlasic		SJS		32		80		4.65
+Andrew Copp		WPG		26		81		4.62
+Pierre-Luc Dubois		CBJ		48		81		4.54
+Jared Spurgeon		MIN		37		61		4.54
+Mathew Dumba		MIN		49		81		4.53
+Jesper Bratt		NJD		35		73		4.48
+Cam Fowler		ANA		32		67		4.46
+Zach Parise		MIN		24		42		4.28
+Josh Manson		ANA		36		79		4.25
+Chris Kunitz		TBL		28		81		4.25
+Ivan Provorov		PHI		40		81		4.2
+Brian Gibbons		NJD		26		58		4.19
+Mikko Koivu		MIN		45		81		4.16
+Charlie Coyle		MIN		36		65		4.15
+Andrew Cogliano		ANA		35		79		4.14
+Alexander Kerfoot		COL		43		78		4.13
+Hampus Lindholm		ANA		30		68		4.12
+Cory Conacher		TBL		12		36		4.1
+Brandon Tanev		WPG		17		60		4.08
+Alexander Wennberg		CBJ		35		66		4.07
+Travis Dermott		TOR		13		36		4.06
+Cody Eakin		VEG		26		79		4.05
+Trevor Lewis		LAK		26		67		3.95
+Connor Brown		TOR		28		81		3.89
+Austin Watson		NSH		18		75		3.88
+Travis Zajac		NJD		26		63		3.85
+Oliver Bjorkstrand		CBJ		40		81		3.79
+Brandon Montour		ANA		32		79		3.78
+Miles Wood		NJD		30		75		3.73
+Zach Werenski		CBJ		37		77		3.68
+Zdeno Chara		BOS		23		71		3.64
+Deryk Engelland		VEG		23		78		3.63
+Nino Niederreiter		MIN		30		62		3.62
+Ben Chiarot		WPG		14		56		3.6
+Josh Anderson		CBJ		29		62		3.59
+Dylan DeMelo		SJS		19		62		3.56
+Stefan Noesen		NJD		27		71		3.55
+Nolan Patrick		PHI		30		72		3.54
+Jannik Hansen		SJS		14		46		3.54
+Nick Foligno		CBJ		33		72		3.51
+Valtteri Filppula		PHI		33		80		3.51
+Barclay Goodrow		SJS		14		47		3.46
+Derek Grant		ANA		24		65		3.45
+Carl Soderberg		COL		35		76		3.45
+Alex Iafallo		LAK		25		75		3.39
+Nick Ritchie		ANA		27		75		3.36
+Sven Andrighetto		COL		22		49		3.36
+Boone Jenner		CBJ		32		74		3.32
+Ron Hainsey		TOR		23		79		3.28
+Brenden Dillon		SJS		22		80		3.19
+Matt Hunwick		PIT		10		42		3.18
+Blake Comeau		COL		33		78		3.17
+Ryan Callahan		TBL		17		66		3.17
+Pavel Zacha		NJD		23		68		3.16
+Brian Boyle		NJD		23		68		3.16
+Sonny Milano		CBJ		22		54		3.12
+Matt Hendricks		WPG		13		60		3.12
+Melker Karlsson		SJS		19		71		3.11
+Alec Martinez		LAK		23		76		3.08
+Ryan Kesler		ANA		14		43		3.04
+Erik Johnson		COL		25		62		3.02
+Brian Dumoulin		PIT		18		80		3
+Blake Coleman		NJD		25		78		2.99
+Tim Schaller		BOS		21		80		2.95
+Leo Komarov		TOR		19		73		2.93
+Dan Girardi		TBL		18		76		2.91
+Markus Nutivaara		CBJ		23		61		2.89
+Slater Koekkoek		TBL		8		34		2.89
+Connor Carrick		TOR		12		47		2.87
+Damon Severson		NJD		23		75		2.86
+Jake Dotchin		TBL		11		48		2.82
+Matt Grzelcyk		BOS		15		60		2.81
+Anton Stralman		TBL		18		79		2.8
+Andrew MacDonald		PHI		21		65		2.75
+Tomas Nosek		VEG		15		67		2.75
+Kasperi Kapanen		TOR		9		37		2.74
+Pierre-Edouard Bellemare		VEG		16		72		2.73
+Matt Calvert		CBJ		24		68		2.71
+Dominic Moore		TOR		12		50		2.7
+Matt Martin		TOR		12		50		2.7
+Matt Irwin		NSH		8		49		2.64
+Jimmy Hayes		NJD		9		32		2.63
+Braydon Coburn		TBL		15		71		2.6
+Steven Santini		NJD		10		36		2.59
+Jordan Weal		PHI		21		69		2.59
+Andreas Borgman		TOR		11		48		2.58
+Tyson Jost		COL		22		64		2.57
+Kevan Miller		BOS		15		66		2.56
+Matthew Nieto		COL		25		73		2.56
+Roman Polak		TOR		12		53		2.55
+Dmitry Kulikov		WPG		11		62		2.55
+J.T. Compher		COL		23		68		2.53
+Joel Ward		SJS		11		51		2.51
+Nikita Zaitsev		TOR		13		59		2.48
+Brayden McNabb		VEG		15		75		2.46
+Colin Wilson		COL		18		55		2.45
+Drew Stafford		NJD		15		58		2.41
+Francois Beauchemin		ANA		17		66		2.4
+Antoine Vermette		ANA		16		63		2.37
+Derek Forbort		LAK		18		78		2.35
+Marcus Foligno		MIN		23		76		2.27
+Miikka Salomaki		NSH		8		57		2.27
+Michael Raffl		PHI		20		75		2.27
+Brandon Manning		PHI		17		64		2.26
+Marcus Sorensen		SJS		6		31		2.25
+Joakim Ryan		SJS		12		62		2.25
+Oscar Lindberg		VEG		11		62		2.18
+Mark Barberio		COL		13		45		2.16
+Daniel Winnik		MIN		23		80		2.15
+Scott Laughton		PHI		20		80		2.13
+Sean Kuraly		BOS		14		75		2.1
+John Moore		NJD		18		80		2.1
+Ryan Murray		CBJ		12		44		2.09
+Jonas Brodin		MIN		20		72		2.08
+Tyler Ennis		MIN		20		72		2.08
+Nail Yakupov		COL		16		58		2.07
+Christian Folin		LAK		13		64		2.07
+Andy Andreoff		LAK		9		45		2.03
+Matt Cullen		MIN		21		78		2.02
+Cedric Paquette		TBL		9		55		2.01
+Toby Enstrom		WPG		6		43		2.01
+Andrej Sustr		TBL		7		43		2
+Michael Amadio		LAK		7		36		1.98
+Nikita Zadorov		COL		20		76		1.97
+Noel Acciari		BOS		10		58		1.94
+Alexei Emelin		NSH		9		75		1.94
+Brandon Dubinsky		CBJ		15		61		1.89
+Kyle Clifford		LAK		9		49		1.87
+Radko Gudas		PHI		15		69		1.85
+Jonny Brodzinski		LAK		6		34		1.79
+Yannick Weber		NSH		5		47		1.72
+Patrik Nemeth		COL		15		67		1.68
+Joel Eriksson Ek		MIN		16		74		1.62
+Travis Sanheim		PHI		9		48		1.59
+Tom Kuhnhackl		PIT		8		69		1.55
+David Savard		CBJ		16		80		1.53
+Andy Greene		NJD		13		80		1.52
+Anthony Bitetto		NSH		3		32		1.52
+Carter Rowney		PIT		5		44		1.52
+Chad Ruhwedel		PIT		5		44		1.52
+Dale Weise		PHI		8		46		1.48
+Gustav Olofsson		MIN		8		41		1.46
+Gabriel Bourque		COL		11		57		1.45
+Ben Lovejoy		NJD		8		56		1.33
+Kevin Bieksa		ANA		8		59		1.27
+Markus Hannikainen		CBJ		5		32		1.2
+Kurtis MacDermid		LAK		4		34		1.2
+Lukas Sedlak		CBJ		8		53		1.16
+Jori Lehtera		PHI		8		61		1.12
+Jonathon Merrill		VEG		3		33		1.12
+Jack Johnson		CBJ		11		76		1.11
+Taylor Leier		PHI		5		39		1.09
+Robert Hagg		PHI		9		70		1.09
+William Carrier		VEG		3		36		1.03
+Scott Harrington		CBJ		4		31		0.99
+Adam McQuaid		BOS		3		36		0.94
+Brandon Carlo		BOS		6		76		0.89
+Anton Lindholm		COL		4		48		0.62
+Dominic Toninato		COL		2		37		0.4
