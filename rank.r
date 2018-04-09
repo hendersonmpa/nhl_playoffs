@@ -1,11 +1,10 @@
 library("tidyverse")
 
-
 ## 2018 Data source https://www.hockey-reference.com/leagues/NHL_2018_skaters.html
-
 points <- read.csv("stats_2018.csv", header = TRUE, stringsAsFactors = FALSE)
 
-## Create team weight
+## Create team weights
+## p<round> is the propabiltiy of getting to that round
 percent <- read.csv("odds_2018.csv", header = TRUE, stringsAsFactors = FALSE)
 
 data <- merge(x = points, y = percent, by.x = "Tm", by.y = "team", all = FALSE)
@@ -19,12 +18,9 @@ contribution <- function(pquarter,psemi,pfinal, PTS, GP){
     return(round(x = pps + quarter + semi + final, digits = 2)) 
 }
 
-
-
-
 data %>%
 ##    na.omit(.) %>%
-    transform(index = contribution(pquarter, psemi, pfinal,PTS,GP)) %>%
+    transform(index = contribution(pquarter, psemi, pfinal, PTS, GP)) %>%
 ##    transform(index = PTS) %>%
     filter(GP > 30) %>%
     arrange(desc(index)) %>%
